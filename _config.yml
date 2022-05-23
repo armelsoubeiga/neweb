@@ -75,17 +75,17 @@ social:
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 253667088
+    tracking_id          : 128994988
 
 # Site Author
 author:
   name             : "Armel SOUBEIGA"
-  avatar           : "aso.png"
+  avatar           : "aso.PNG"
   bio              : "PhD student in Machine Learning"
   location         : "Clermont-Ferrand, France"
   employer         : "LIMOS"
   pubmed           :
-  googlescholar    : 
+  googlescholar    : ""
   email            : "armel.soubeiga@yahoo.fr"
   researchgate     : "https://www.researchgate.net/profile/Armel-Soubeiga"
   uri              :
