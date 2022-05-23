@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DJIBEROU M. Abdoul Jalil"
+title                    : "Armel SOUBEIGA"
 title_separator          : "-"
-name                     : &name "DJIBEROU M. Abdoul Jalil"
+name                     : &name "Armel SOUBEIGA"
 description              : &description "Machine Learning Scientist @ Prevision.io"
 url                      : https://abdjiber.github.io #  <br/> Open to work from October 2021 the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,15 +79,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "DJIBEROU M. Abdoul Jalil"
-  avatar           : "abjalil.png"
-  bio              : "Machine Learning Scientist"
-  location         : "Nantes, France"
-  employer         : "Prevision.io"
+  name             : "Armel SOUBEIGA"
+  avatar           : "0.png"
+  bio              : "PhD student in Machine Learning"
+  location         : "Clermont-Ferrand, France"
+  employer         : "LIMOS"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=3v5pE6MAAAAJ&hl=fr"
-  email            : "abdoul.djiberou@prevision.io"
-  researchgate     : "https://www.researchgate.net/profile/Abdoul_Jalil_Djiberou_Mahamadou"
+  googlescholar    : ""
+  email            : "armel.soubeiga@yahoo.fr"
+  researchgate     : "https://www.researchgate.net/profile/Armel-Soubeiga"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,24 +95,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "abdjiber"
+  github           : "armelsoubeiga"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "djiberou-m-abdoul-jalil-ph-d-5807b5105"
+  linkedin         : "armel-soubeiga-646316151"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/11368978/armel-soubeiga"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "ArmelSoubeiga"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCLU-HEaZY5Gqdku65Jqbb5Q/"
+  youtube          : 
   wikipedia        :
 
 
