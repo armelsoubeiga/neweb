@@ -346,8 +346,6 @@ MagnificPopup.prototype = {
 		// remove scrollbar, add margin e.t.c
 		$('html').css(windowStyles);
 
-		// add everything to DOM
-		mfp.bgOverlay.add(mfp.wrap).prependTo( mfp.st.prependTo || _body );
 
 		// Save last focused element
 		mfp._lastFocusedEl = document.activeElement;
