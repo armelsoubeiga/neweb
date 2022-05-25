@@ -227,6 +227,7 @@
       position: relative;
 
       &:before {
+        text-decoration: underline #52adc8;
         content: "";
         position: absolute;
         left: 0;
@@ -242,6 +243,7 @@
       }
 
       &:hover:before {
+         text-decoration: underline #52adc8;
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
