@@ -334,15 +334,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: #52adc8;
     font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
-    text-decoration: underline #52adc8;
 
     &:hover {
       color: #fff;
-      text-decoration: underline #52adc8;
     }
   }
 }
