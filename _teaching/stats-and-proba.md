@@ -15,4 +15,4 @@ I was in charge of the cours and pratical work of the course probabilty and stat
 * Relationship between two variables
 * Parametric inferential statistics
 * Introduction to multivariate analysis 
-* Practical work (https://armelsoubeiga.github.io/Cours/statsbigdata/2021/12/01/Statistiques-en-BigData.html
+* [Practical work](https://armelsoubeiga.github.io/Cours/statsbigdata/2021/12/01/Statistiques-en-BigData.html
