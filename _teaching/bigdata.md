@@ -1,7 +1,7 @@
 ---
 title: "Big Data"
 collection: teaching
-type: "Undergraduate course"
+type: "Master, SAAD"
 permalink: /teaching/bigdata
 venue: "Université Nazi Boni"
 date: 2022-3-01
