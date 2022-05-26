@@ -14,6 +14,9 @@ main:
 
   - title: "Certificates"
     url: /certificates/
+    
+  - title: "Tech Transfer"
+    url: /certificates/
 
   - title: "CV"
     url: /cv/
