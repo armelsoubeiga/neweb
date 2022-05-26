@@ -14,7 +14,7 @@ After more than three years in clinical research as a data scientist. And more t
 
 **Research interests:**
 
-* Unsupervised classification for longitudinal data and trajectory analysis
+* Unsupervised classification for longitudinal data and trajectories analysis
 * AI and DevOps application in Health 
 * Machine Learning and Natural Language Processing for software engineering
 * Dataviz for software engineering
