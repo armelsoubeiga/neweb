@@ -21,9 +21,9 @@ After more than three years in clinical research as a data scientist. And more t
 
 **Here, take a look at my stuff**  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
-- ✨ I love the TensorFlow, Scikit-Learn, keras, Rshiny, Django, Flask frameworks
+- ✨ I like TensorFlow, Scikit-Learn, Keras, Rshiny, Django, Flask frameworks
 - 📰 I try to maintain this Data Science Blog [DataScience & AI Blog](https://armelsoubeiga.pythonanywhere.com/)
-- 📚 I'm currently writing a book on web scraping
+- 📚 I'm currently writing a book on web mining (scraping)
 
 [![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
