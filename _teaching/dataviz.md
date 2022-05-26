@@ -2,7 +2,7 @@
 title: "Data visualization"
 collection: teaching
 type: "Master SAAD"
-permalink: /teaching/sql
+permalink: /teaching/dataviz
 venue: "Université Nazi Boni"
 date: 2022-02-01
 location: "virtual, Burkina Faso"
