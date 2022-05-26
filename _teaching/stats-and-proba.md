@@ -3,7 +3,7 @@ title: "Statistics and probability"
 collection: teaching
 type: "Master"
 permalink: /teaching/stats-and-proba
-venue: "[Université Virtuelle Du Burkina Faso](https://uv.bf/)"
+venue: "Université Virtuelle Du Burkina Faso"
 date: 2021-12-01
 location: "Ouagadougou, Burkina Faso"
 ---
