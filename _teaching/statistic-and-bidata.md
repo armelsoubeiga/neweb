@@ -4,13 +4,12 @@ collection: teaching
 type: "Master"
 permalink: /teaching/information-systems
 venue: "Université Nazi Boni"
-date: 2020-09-16
+date: 2021-07-1
 location: "Bobo Dioulasso, Burkina Faso"
 ---
 
 This course introduces students to different methods for analysing high-dimensional data. I was in charge of the cours and pratical work.
 We studied :
-
 * Introduction 
     * Problems of classical statistical methods
     * Methods of high-dimensional analysis
