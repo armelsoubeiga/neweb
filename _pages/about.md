@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-After more than three years in clinical research as a data scientist. And more than a year as a data consultant at the World Bank and the Centre-Muraz public health research centre. I am currently a PhD student in machine learning at the University of Clermont Auvergne, with [LIMOS](https://limos.fr/) and [SFU](https://www.sfu.ca/).
+After more than three years in clinical research as a data scientist. And more than one year as a data consultant at the World Bank and the Centre-Muraz public health research centre. I am currently a PhD student in machine learning at the University of Clermont Auvergne, with [LIMOS](https://limos.fr/) and [SFU](https://www.sfu.ca/).
 
 **Research interests:**
 
