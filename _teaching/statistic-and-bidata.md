@@ -25,5 +25,3 @@ We studied :
     * Spark and Hadoop
     * Spark in R or Python
 * Practical work      
-
-![transcript](/images/statbigdata.png)
