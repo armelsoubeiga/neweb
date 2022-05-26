@@ -21,18 +21,9 @@ After more than three years in clinical research as a data scientist in Lyon. An
 
 **Here, take a look at my stuff**  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
-- ✨ I love the TensorFlow, Scikit-Learn, keras, Rshiny, Django, Flask frameworks, my works can be found [here](https://armelsoubeiga.github.io/work.html)
+- ✨ I love the TensorFlow, Scikit-Learn, keras, Rshiny, Django, Flask frameworks
 - 📰 I try to maintain this Data Science Blog [DataScience & AI Blog](https://armelsoubeiga.pythonanywhere.com/)
 - 📚 I'm currently writing a book on web scraping
-
-**Tools & Tech**
-
-<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code>
-<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
-<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg"></code>
-<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
-<code><img height="15" src="https://github.com/valohai/ml-logos/blob/master/spark.svg"></code>
-
 
 [![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/armelsoubeiga)](https://github.com/armelsoubeiga)
