@@ -16,4 +16,3 @@ In the cours we covered :
 * Data visualization frameworks and tools 
 * [Project and Practical work](https://armelsoubeiga.github.io/Cours/dataviz/2021/12/01/Visualisation-des-donn%C3%A9es.html)
 
-![transcript](/images/dataviz.png)
