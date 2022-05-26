@@ -1,16 +1,20 @@
 ---
-title: "Relational database"
+title: "Data visualization"
 collection: teaching
-type: "Undergraduate course"
+type: "Master SAAD"
 permalink: /teaching/sql
-venue: "Université Clermont Auvergne, Polytech Clermont"
-date: 2019-02-01
-location: "Aubière, France"
+venue: "Université Nazi Boni"
+date: 2022-02-01
+location: "virtual, Burkina Faso"
 ---
 
-I was in charge in 2019 and 2020 respectively over **12 hours** and **24 hours** of tutorials and pratical work of database course for engineering students at Polytech Clermont (my engineering degree school).
-In the tutorial part we covered modeling databases with MERISE. For the pratical course we covered:
-* Creating SQL scripts on an Oracle server.
-* Creating tables.
-* Updating and deleting a table instances.
-* Creating databases in Microsoft Access.
+I was in charge in 2022 respectively over **12 hours** and **4 hours** of tutorials and pratical work of Data visualization SAAD students at UNB.
+In the cours we covered :
+
+* Introduction to data visualization
+* Programming principles in D3.js
+* Types of visualisation
+* Data visualization frameworks and tools 
+* [Project and Practical work](https://armelsoubeiga.github.io/Cours/dataviz/2021/12/01/Visualisation-des-donn%C3%A9es.html)
+
+![transcript](/images/dataviz.png)
