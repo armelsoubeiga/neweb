@@ -10,7 +10,7 @@ location: "Ouagadougou, Burkina Faso"
 
 I was in charge of the cours and pratical work of the course probabilty and statistics over **24 hours**. In this course we covered:
 * Introduction to probability theory and statistics
-* General information on data analysis
+* Generality on data analysis
 * Descriptive statistics and applications
 * Relationship between two variables
 * Parametric inferential statistics
