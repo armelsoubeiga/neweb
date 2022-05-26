@@ -2,10 +2,10 @@
 title: "Big Data"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/shell
+permalink: /teaching/bigdata
 venue: "Université Nazi Boni"
 date: 2022-3-01
-location: "Aubière, France"
+location: "Burkina Faso"
 ---
 
 This course introduced students to Big Data : Big Data Analytics and Big Data Engineering. We covered:
