@@ -10,6 +10,11 @@ redirect_from:
 
 About
 ------
-Since my junior high school in Niger, mathematics has always fascinated me. It was at this time the only domain for which I couldn't see the time passing when solving problems. I left Niger to Morroco in 2012 to study mathematics for three years. I discovered computer science programming during this curriculum and wanted to pursue my studies in both mathematics and computer science in France. Three years after, I doubly graduated in applied mathematics engineering et master's in computer science. During the latter curriculum, I discovered machine learning and wanted to learn more about the domain. I then did a Ph.D. thesis in computer science and machine learning. Today, I'm applying my knowledge and experience as a machine learning scientist engineer (R&D).
+After more than three years in clinical research as a data scientist in Lyon. And more than a year as a data consultant at the World Bank and the Centre-Muraz public health research centre. I am currently a PhD student in machine learning at the University Of Clermont Auvergne, with [LIMOS](https://limos.fr/) and [SFU](https://www.sfu.ca/).
 
-An ideal work environment for me would be an environment where there are continuous learning opportunities, an environment where quantitative methods such as mathematics and computer science can be used to tackle complex problems, and finally an environment where people with different backgrounds put their efforts to improve existing products or come up with innovative ones.
+**Research interests:**
+
+* Unsupervised classification for longitudinal data and trajectory analysis
+* AI and DevOps application in Health 
+* Machine Learning and Natural Language Processing for software engineering
+* Dataviz for software engineering
