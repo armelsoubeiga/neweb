@@ -2,7 +2,7 @@
 title: "Statistics Methods for Big Data"
 collection: teaching
 type: "Master"
-permalink: /teaching/information-systems
+permalink: /teaching/Stats-for-bigdata
 venue: "Université Nazi Boni"
 date: 2021-07-1
 location: "Bobo Dioulasso, Burkina Faso"
