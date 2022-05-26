@@ -26,4 +26,4 @@ We studied :
     * Spark in R or Python
 * Practical work      
 
-
+![transcript](/images/statbigdata.png)
