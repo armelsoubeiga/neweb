@@ -1,14 +1,18 @@
 ---
 title: "Statistics and probability"
 collection: teaching
-type: "Undergraduate course"
+type: "Master"
 permalink: /teaching/stats-and-proba
-venue: "Université Clermont Auvergne, ISIMA"
-date: 2020-11-01
-location: "Aubière, France"
+venue: "[Université Virtuelle Du Burkina Faso](https://uv.bf/)"
+date: 2021-12-01
+location: "Ouagadougou, Burkina Faso"
 ---
 
-I was in charge of the pratical work of the course probabilty and statistics over **36 hours**. In this course we covered:
-* An introduction to matplotib, a Python plotting package.
-* Implementation from scratch a linear regression model.
-* Random variable simulation.
+I was in charge of the cours and pratical work of the course probabilty and statistics over **24 hours**. In this course we covered:
+* Introduction to probability theory and statistics
+* General information on data analysis
+* Descriptive statistics and applications
+* Relationship between two variables
+* Parametric inferential statistics
+* Introduction to multivariate analysis 
+* Practical work (https://armelsoubeiga.github.io/Cours/statsbigdata/2021/12/01/Statistiques-en-BigData.html
