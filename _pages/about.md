@@ -19,7 +19,7 @@ After more than three years in clinical research as a data scientist in Lyon. An
 * Machine Learning and Natural Language Processing for software engineering
 * Dataviz for software engineering
 
-**Here, take a look at my stuff ** 👋
+**Here, take a look at my stuff 👋 **
 
 - ✨ I love the TensorFlow, Scikit-Learn, keras, Rshiny, Django, Flask frameworks, my works can be found [here](https://armelsoubeiga.github.io/work.html)
 - 📰 I try to maintain this Data Science Blog [DataScience & AI Blog](https://armelsoubeiga.pythonanywhere.com/)
