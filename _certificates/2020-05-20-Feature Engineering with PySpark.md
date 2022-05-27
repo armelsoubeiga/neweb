@@ -1,6 +1,6 @@
 ---
 title: "Feature Engineering with PySpark"
-permalink: /certificates/Feature Engineering with PySpark
+permalink: /certificates/Feature-Engineering-with-PySpark
 excerpt: "Feature Engineering with PySpark"
 data: 2020-05-02
 ---
@@ -14,6 +14,8 @@ The specialization contains four courses:
 
 **Credential ID**: [Feature Engineering with PySpark, #14,008,512](https://www.datacamp.com/statement-of-accomplishment/course/78dba7061ed326233f1bb3645c656d8211bdaead)
 
-*16 Videos
-60 Exercises
-9,826 Participants*
+*16 Videos*
+
+*60 Exercises* 
+
+*9,826 Participants*
