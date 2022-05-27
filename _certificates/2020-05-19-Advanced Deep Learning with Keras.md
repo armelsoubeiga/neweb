@@ -15,6 +15,8 @@ The specialization contains four courses:
 
 **Credential ID**: [Advanced Deep Learning with Keras, #13,164,662]([https://www.coursera.org/account/accomplishments/specialization/certificate/6HHEAT8V4K4V](https://www.datacamp.com/statement-of-accomplishment/course/1bba90cf940e8142348cedb38189a2abe4b7c076))
 
-*13 Videos
-46 Exercises
-23,556 Participants*
+*13 Videos*
+
+*46 Exercises* 
+
+*23,556 Participants*
