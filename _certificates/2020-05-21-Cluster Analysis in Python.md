@@ -15,6 +15,8 @@ The specialization contains four courses:
 
 **Credential ID**: [Cluster Analysis in Python,#14,155,497](https://www.datacamp.com/statement-of-accomplishment/course/e5173db0e31bc538b805034d5844603f98818491)
 
-*14 Videos
-46 Exercises
-37,046 Participants*
+*14 Videos*
+
+*46 Exercises* 
+
+*37,046 Participants*
