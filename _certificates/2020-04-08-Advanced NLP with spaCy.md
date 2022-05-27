@@ -15,5 +15,7 @@ The specialization contains four courses:
 **Credential ID**: [Advanced NLP with spaCy, #14,249,425](https://www.datacamp.com/statement-of-accomplishment/course/e1f559d01c237a15b200f084bc409073ff0ba01a)
 
 *15 Videos
+
 55 Exercises
+
 15,006 Participants*
