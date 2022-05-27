@@ -2,7 +2,7 @@
 title: "Advanced Deep Learning with Keras"
 permalink: /certificates/advanced-data-science-with-ibm
 excerpt: "Advanced Deep Learning with Keras by datacamp."
-data: 2019-09-11
+data: 2020-05-01
 ---
 
 In May 2020 I completed the specialization **Advanced Deep Learning with Keras** by datacamp.
