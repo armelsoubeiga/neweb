@@ -5,7 +5,7 @@ excerpt: "Cluster Analysis in Python"
 data: 2020-05-21
 ---
 
-In May,21 2020 I completed the specialization **Cluster Analysis in Python** by datacamp.
+In May 21, 2020 I completed the specialization **Cluster Analysis in Python** by datacamp.
 
 The specialization contains four courses:
 * Introduction to Clustering
