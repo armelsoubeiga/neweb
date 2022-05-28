@@ -1,6 +1,6 @@
 ---
 title: "Supervised Learning with scikit-learn"
-permalink: /certificates/Sentiment-Analysis-in-Python
+permalink: /certificates/Supervised-Learning-with-scikit-learn
 excerpt: "Supervised Learning with scikit-learn"
 data: 2020-05-29
 ---
