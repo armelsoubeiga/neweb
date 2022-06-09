@@ -120,10 +120,8 @@ main {
   grid-template-columns: repeat(2, 1fr);
 
   img {
-    // width: 100%;
+    width: 100%;
     border: 3px #fff solid;
-    width: 350px;
-    height: 350px;
 
     &:hover {
       opacity: 0.5;
