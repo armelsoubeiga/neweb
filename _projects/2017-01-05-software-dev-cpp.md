@@ -2,7 +2,7 @@
 title: "Sofware development with C++"
 collection: projects
 permalink: /projects/2017-01-05-software-dev-cpp
-type: grid
+type: "grid"
 excerpt: "Group school project on the development of a software in C++."
 data: 2017-01-05
 ---
