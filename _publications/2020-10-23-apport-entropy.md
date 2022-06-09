@@ -1,5 +1,5 @@
 ---
-title: "Apport de l\'entropie pour les c-moyennes floues sur des données catégorielles"
+title: "Apport de l'entropie pour les c-moyennes floues sur des données catégorielles"
 collection: publications
 permalink: /publications/2020-10-23-apport-entropy
 excerpt: 'French version of the paper Categorical fuzzy entropy c-means'
