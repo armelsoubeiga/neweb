@@ -13,8 +13,8 @@
 {% endif %}
 
 <div class="{{ include.type | default: "grid" }}__item">
-  <article itemscope itemtype="http://schema.org/CreativeWork">
-  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" >
     {% if post.image.teaser %}
         <img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser">
     {% else %}
