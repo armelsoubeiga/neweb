@@ -9,10 +9,14 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  /* sticky footer fix start */
+  /* sticky footer fix start 
   position: absolute;
   bottom: 0em;
-  height: auto;
+  height: auto; */
+   
+  height: 105px;
+  width: 100%;
+  position: relative;
   /* sticky footer fix end */
   margin-top: 0em;
   color: mix(#fff, $gray, 25%);
