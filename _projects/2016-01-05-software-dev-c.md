@@ -4,6 +4,7 @@ collection: projects
 permalink: /projects/2016-01-05-software-dev-c
 excerpt: "Group school project on the development of a software in C."
 data: 2016-01-05
+entries_layout: grid
 ---
 Group school project on the development of a software in C.
 
