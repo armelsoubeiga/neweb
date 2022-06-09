@@ -5,7 +5,7 @@ permalink: /projects/2020-03-20-ma-distance-de-securite
 excerpt: "Web and mobile applications that help users to manage the social distancing during the pandemic COVID-19."
 data: 2020-03-20
 image:
-  teaser: statprob.png
+  teaser: foo-bar-identity-th.jpg
 ---
 
 ![dist-secu](/images/dist-secu.png)
