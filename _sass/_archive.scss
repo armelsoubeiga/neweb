@@ -114,6 +114,11 @@
 
 .grid__item {
   margin-bottom: 2em;
+   
+   width: 100%;
+   float: left;
+   margin-left: 0;
+   margin-right: 0;
 
   .page__meta {
     margin: 0 0 4px;
