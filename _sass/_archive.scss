@@ -4,6 +4,8 @@
 
 .archive {
   margin-bottom: 2em;
+  float:left;
+  margin: 0 -5px;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -114,7 +116,6 @@
 
 .grid__item {
   margin-bottom: 2em;
-  float:left;
 
   .page__meta {
     margin: 0 0 4px;
