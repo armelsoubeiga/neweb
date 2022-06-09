@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: /assets/images/code.jpg
+  overlay_image: images/aso.png
   caption: "Photo credit: [**Marcus Spiske**](https://unsplash.com)"
 permalink: /portfolio/deskai/
 date: 2018-03-16
