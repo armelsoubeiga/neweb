@@ -17,7 +17,7 @@ Burkina Faso. Our method consists in first selecting commonly known spots in the
 
 (French) Nous avons proposé une approche simple pour construire un système d’échantillonnage dans des situations à revenus limités. L’étude a été menée à BoboDioulasso, Burkina Faso. La méthode a consisté à sélectionner des lieux-dits bien connus dans la zone d’étude. Des informations clés étaient collectées sur ces lieux et la densité de la population était estimée. Nous avons ensuite prédit la densité de la population sur tout le territoire par krigeage, en controlant la variance. Nous pouvons ensuite proposer, pour un point désigné dans la zone d’étude, un groupe virtuel avec une densité de population estimée. Nous avons ensuite décrit une méthode de sondage à deux degrés à probabilités égales et l’estimateur sans biais de Horvitz-Thompson associé.
 
-<a href='https://github.com/armelsoubeiga/neweb/blob/main/_publications/ajas_2019_01_05_def.pdf'>Download paper here</a>
+<a href='https://github.com/armelsoubeiga/neweb/blob/main/_publications/paper/ajas_2019_01_05_def.pdf'>Download paper here</a>
 
 Recommended citation:
 > S. M. A. Somda, E. Sanou, A. Soubeiga and J. E. M. SAWADOGO, &quot;Developing an area-based sampling system in the urban district of Bobo Dioulasso, Burkina Faso,&quot; <i>2019 AFRICAN JOURNAL of APPLIED STATISTICS Applied Probability and Statistics.
