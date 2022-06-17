@@ -6,7 +6,7 @@ excerpt: 'Etude de l observance au traitement par sitagliptine en vie reelle a p
 date: 2020-09-01
 venue: 'Revue Epidémiologie et de Sante Publique'
 paperurl: 'https://doi.org/10.1016/j.respe.2020.04.009'
-citation: 'A. Soubeiga, C. Portugues, K. Mari, C. Berthod, E. Chomette, S. Franc, G. Charpentier, F. Mistretta, A. Lajoinie, &quot;Etude de l observance au traitement par sitagliptine en vie reelle a partir du Systeme national des données de sante,&quot; <i>Revue d'Épidémiologie et de Santé Publique, Volume 68, Supplement 2, 2020, Pages S64-S65, ISSN 0398-7620</i>'
+citation: 'A. Soubeiga, C. Portugues, K. Mari, C. Berthod, E. Chomette, S. Franc, G. Charpentier, F. Mistretta, A. Lajoinie, &quot;Etude de l observance au traitement par sitagliptine en vie reelle a partir du Systeme national des données de sante,&quot; <i>Revue Epidémiologie et de Sante Publique, Volume 68, Supplement 2, 2020, Pages S64-S65, ISSN 0398-7620</i>'
 ---
 Étude de l’observance au traitement par sitagliptine en vie réelle à partir du Système national des données de santé.
 
