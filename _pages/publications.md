@@ -17,8 +17,8 @@ I am open to discuss with you
 Peer-reviewed publications
 ======
 
-{% if author.researchgate %}
-  You can also find my articles on <u><a href="{{author.researchgate}}">my Google Scholar profile</a>.</u>
+{% if author.googlescholare %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
