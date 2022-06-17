@@ -20,4 +20,4 @@ Burkina Faso. Our method consists in first selecting commonly known spots in the
 <a href='https://github.com/armelsoubeiga/neweb/blob/main/_publications/paper/ajas_2019_01_05_def.pdf'>Download paper here</a>
 
 Recommended citation:
-> S. M. A. Somda, E. Sanou, A. Soubeiga and J. E. M. SAWADOGO, &quot;Developing an area-based sampling system in the urban district of Bobo Dioulasso, Burkina Faso,&quot; <i>2019 AFRICAN JOURNAL of APPLIED STATISTICS Applied Probability and Statistics.
+> S. M. A. Somda, E. Sanou, A. Soubeiga and J. E. M. SAWADOGO, &quot;Developing an area-based sampling system in the urban district of Bobo Dioulasso, Burkina Faso,&quot; <i>2019 AFRICAN JOURNAL of APPLIED STATISTICS Applied Probability and Statistics.</i>
