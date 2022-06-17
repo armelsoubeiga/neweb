@@ -1,5 +1,5 @@
 ---
-title: "Étude de l’observance au traitement par sitagliptine en vie réelle à partir du Système national des données de santé"
+title: "Etude de l observance au traitement par sitagliptine en vie reelle a partir du Systeme national des données de sante"
 collection: publications
 permalink: /publications/2020-07-01-Etude-de-observance-au-traitement-par-sitagliptine
 excerpt: 'Étude de l’observance au traitement par sitagliptine en vie réelle à partir du Système national des données de santé'
