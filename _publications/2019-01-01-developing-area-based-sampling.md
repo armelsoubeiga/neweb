@@ -6,7 +6,7 @@ excerpt:
 date: 2019-09-19
 venue: 'AFRICAN JOURNAL of APPLIED STATISTICS'
 paperurl: 'https://www.researchgate.net/publication/333068024_Developing_an_area-based_sampling_system_in_the_urban_district_of_Bobo_Dioulasso_Burkina_Faso'
-citation: 'S. M. A. Somda, E. Sanou, **A. Soubeiga** and J. E. M. SAWADOGO, &quot;Developing an area-based sampling system in the urban district of Bobo Dioulasso, Burkina Faso,&quot; <i>2019 AFRICAN JOURNAL of APPLIED STATISTICS, Applied Probability and Statistics</i>'
+citation: 'S. M. A. Somda, E. Sanou,  <b>A. Soubeiga</b> and J. E. M. SAWADOGO, &quot;Developing an area-based sampling system in the urban district of Bobo Dioulasso, Burkina Faso,&quot; <i>2019 AFRICAN JOURNAL of APPLIED STATISTICS, Applied Probability and Statistics</i>'
 ---
 ## Abstract
 
