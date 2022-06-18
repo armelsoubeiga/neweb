@@ -31,3 +31,7 @@ After more than three years in clinical research as a data scientist, and more t
 [![SAS](https://img.shields.io/badge/SAS-programming-black)](https://github.com/armelsoubeiga)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+
+
+{% include gallery class="full" caption="I'm a London-based photographer and I take snaps of people, places and things (along with the occasional squirrel!)" %}
