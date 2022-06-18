@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /pages/
 title: ""
 excerpt: "About me"
 author_profile: true
@@ -33,5 +33,5 @@ After more than three years in clinical research as a data scientist, and more t
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-[![](https://www.qries.com/images/banner_logo.png)](https://armelsoubeiga.github.io/neweb/portfolio.html)
+[![](https://www.qries.com/images/banner_logo.png)]({{site.baseurl}}/pages/portfolio.html)
                                
