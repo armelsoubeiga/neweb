@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
  - /about/
  - /about.html
+ gallery:
+  - url: path-to-france/bac.png
+    image_path: bbcle-digital-debate.jpg
+    alt: "bbc learning english digital debate with alice and amith"
+    title: "Amith and Alice prepping for the digital debate"
+  - url: path-to-france/bnp.png
+    image_path: karlovci-eva-tower.jpg
+    alt: "eva tower danube"
+    title: "Eva in the tower"
 ---
 
 About
@@ -34,4 +43,4 @@ After more than three years in clinical research as a data scientist, and more t
 
 
 
-{% include my_gallery %}
+{% include gallery class="full" caption="I'm a London-based photographer and I take snaps of people, places and things (along with the occasional squirrel!)" %}
