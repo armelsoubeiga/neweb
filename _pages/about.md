@@ -34,5 +34,5 @@ After more than three years in clinical research as a data scientist, and more t
 
 
 {% include base_path %}
-[![](https://www.qries.com/images/banner_logo.png)]({{ 'portfolio.html' | relative_url }})
+[![](https://www.qries.com/images/banner_logo.png)]({{ base_path }}{{ pages.url }}/portfolio)
                                
