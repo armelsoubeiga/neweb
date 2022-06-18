@@ -33,7 +33,10 @@ After more than three years in clinical research as a data scientist, and more t
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-<a href="https://www.qries.com/">
+{% include base_path %}
+<div>
+<a href="{{site.page/portfolio.html}}"> 
       <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
          width=150" height="70">
 </a>
+</div>
