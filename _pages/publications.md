@@ -11,8 +11,8 @@ Research
 Currently I am interested in ML and specifically in unsupervised learning. I am also interested in NLP.
 
 - My thesis focuses on clustering of longitudinal data and sequence analysis. With applications in health (life course, health course, care course, treatment sequences, ...)
-- 
-I am open to discuss with you
+
+- I am open to discuss with you
 
 Peer-reviewed publications
 ======
