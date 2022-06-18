@@ -32,3 +32,8 @@ After more than three years in clinical research as a data scientist, and more t
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+
+<a href="https://www.qries.com/">
+      <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
+</a>
