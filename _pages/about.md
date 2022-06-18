@@ -33,6 +33,5 @@ After more than three years in clinical research as a data scientist, and more t
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-{% include base_path %}
-[![](https://www.qries.com/images/banner_logo.png)]({{ site.baseurl }}/portfolio)
+[![](https://www.qries.com/images/banner_logo.png)]({{ base_path }}{{ pages.url }}/portfolio)
                                
