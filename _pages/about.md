@@ -35,5 +35,5 @@ After more than three years in clinical research as a data scientist, and more t
 
 {% include base_path %}
 
-[![](https://www.qries.com/images/banner_logo.png)]({{site.page/portfolio.html}})
+[![](https://www.qries.com/images/banner_logo.png)](https://armelsoubeiga.github.io/neweb/tech/)
                                
