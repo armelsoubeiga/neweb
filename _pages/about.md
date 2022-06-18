@@ -4,7 +4,8 @@ title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
- - /pages/
+ - /about/
+ - /about.html
 ---
 
 About
@@ -32,5 +33,6 @@ After more than three years in clinical research as a data scientist, and more t
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-[![](https://www.qries.com/images/banner_logo.png)]({% link portfolio.html %})
+{% include base_path %}
+[![](https://www.qries.com/images/banner_logo.png)]({% site.pages.portfolio.html %})
                                
