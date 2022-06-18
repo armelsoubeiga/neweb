@@ -32,7 +32,7 @@ After more than three years in clinical research as a data scientist, and more t
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-
+</br></br></br>
 {% include base_path %}
 [![](https://www.qries.com/images/banner_logo.png)]({{ base_path }}{{ pages.url }}/portfolio)
                                
