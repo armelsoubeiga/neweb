@@ -6,15 +6,6 @@ author_profile: true
 redirect_from:
  - /about/
  - /about.html
- gallery:
-  - url: path-to-france/bac.png
-    image_path: bbcle-digital-debate.jpg
-    alt: "bbc learning english digital debate with alice and amith"
-    title: "Amith and Alice prepping for the digital debate"
-  - url: path-to-france/bnp.png
-    image_path: karlovci-eva-tower.jpg
-    alt: "eva tower danube"
-    title: "Eva in the tower"
 ---
 
 About
