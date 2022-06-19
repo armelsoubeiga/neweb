@@ -1,7 +1,7 @@
 ---
 title: "Feature Engineering with PySpark"
 permalink: /certificates/Feature-Engineering-with-PySpark
-excerpt: "Feature Engineering with PySpark"
+excerpt:
 data: 2020-05-02
 ---
 
