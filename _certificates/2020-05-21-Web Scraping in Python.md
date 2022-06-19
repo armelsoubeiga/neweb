@@ -1,7 +1,7 @@
 ---
 title: "Web Scraping in Python"
 permalink: /certificates/Web-Scraping-in-Python
-excerpt: "Web Scraping in Python"
+excerpt:
 data: 2020-05-21
 ---
 
