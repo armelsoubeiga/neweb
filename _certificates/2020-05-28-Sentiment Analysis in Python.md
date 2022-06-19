@@ -1,7 +1,7 @@
 ---
 title: "Sentiment Analysis in Python"
 permalink: /certificates/Sentiment-Analysis-in-Python
-excerpt: "Sentiment Analysis in Python"
+excerpt:
 data: 2020-05-28
 ---
 
