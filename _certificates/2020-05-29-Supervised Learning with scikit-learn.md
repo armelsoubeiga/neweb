@@ -1,7 +1,7 @@
 ---
 title: "Supervised Learning with scikit-learn"
 permalink: /certificates/Supervised-Learning-with-scikit-learn
-excerpt: "Supervised Learning with scikit-learn"
+excerpt:
 data: 2020-05-29
 ---
 
