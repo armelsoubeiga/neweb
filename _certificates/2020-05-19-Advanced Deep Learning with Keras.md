@@ -5,9 +5,7 @@ excerpt:
 data: 2020-05-19
 ---
 
-In May 19, 2020 I completed the specialization **Advanced Deep Learning with Keras** by datacamp.
-
-The specialization contains four courses:
+In May 19, 2020 I completed the specialization **Advanced Deep Learning with Keras** by datacamp. The specialization contains four courses:
 * The Keras Functional API
 * Two Input Networks Using Categorical Embeddings, Shared Layers, and Merge Layers
 * Multiple Inputs: 3 Inputs (and Beyond!)
