@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Natural Language Processing in Python"
 permalink: /certificates/Introduction-to-Natural-Language-Processing-in-Python
-excerpt: "Introduction to Natural Language Processing in Python"
+excerpt:
 data: 2020-05-20
 ---
 
