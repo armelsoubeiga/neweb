@@ -1,7 +1,7 @@
 ---
 title: "Advanced NLP with spaCy"
 permalink: /certificates/Advanced-NLP-with-spaCy
-excerpt: "Advanced NLP with spaCy"
+excerpt:
 data: 2020-05-02
 ---
 
