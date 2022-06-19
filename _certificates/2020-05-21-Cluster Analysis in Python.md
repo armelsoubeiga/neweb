@@ -1,7 +1,7 @@
 ---
 title: "Cluster Analysis in Python"
 permalink: /certificates/Cluster-Analysis-in-Python
-excerpt: "Cluster Analysis in Python"
+excerpt:
 data: 2020-05-21
 ---
 
