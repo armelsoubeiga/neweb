@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Deep Learning in Python"
 permalink: /certificates/Introduction-to-Deep-Learning-in-Python
-excerpt: "Introduction to Deep Learning in Python"
+excerpt:
 data: 2020-05-02
 ---
 
