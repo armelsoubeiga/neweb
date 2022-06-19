@@ -1,7 +1,7 @@
 ---
 title: "Tensorflow 2.0: Deep Learning and Artificial Intelligence"
 permalink: /certificates/Tensorflow-2-Deep-Learning
-excerpt: "Web Scraping in Python"
+excerpt: 
 data: 2020-04-01
 ---
 
