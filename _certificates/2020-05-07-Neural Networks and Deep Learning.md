@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks and Deep Learning"
 permalink: /certificates/Neural-Networks-and-Deep-Learning
-excerpt: "Neural Networks and Deep Learning"
+excerpt:
 data: 2020-05-07
 ---
 
