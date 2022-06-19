@@ -1,7 +1,7 @@
 ---
 title: "Advanced Deep Learning with Keras"
 permalink: /certificates/Advanced-Deep-Learning-with-Keras
-excerpt: "Advanced Deep Learning with Keras by datacamp."
+excerpt:
 data: 2020-05-19
 ---
 
