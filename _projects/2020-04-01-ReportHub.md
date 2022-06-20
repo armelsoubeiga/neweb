@@ -1,7 +1,7 @@
 ---
 title: "PhiField"
 collection: projects
-permalink: /projects/2019-05-01-phifield
+permalink: /projects/2020-04-01-ReportHub
 excerpt: "AfricAnalytics ReportHub. We collect thousands of annual reports from different companies around the world"
 data: 2020-04-01
 image:
