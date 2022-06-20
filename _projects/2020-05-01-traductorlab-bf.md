@@ -16,4 +16,3 @@ Traductor Lab / BF est un effort de recherche pour la PNL et la traduction autom
 
 [Website](https://traductorlab-bf.github.io/) \ [Github](https://github.com/traductorlab-bf)
 
-</div>
