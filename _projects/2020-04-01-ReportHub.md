@@ -11,7 +11,7 @@ image:
 AfricAnalytics ReportHub. We collect thousands of annual reports from different companies around the world.
 
 <div align="center">
-<img src="https://github.com/armelsoubeiga/neweb/blob/3296883aab54626dbb8bb1f5f5271a6af929bc6a/images/reporthub.jpg" style="height:150px; width:150px;" />
+<img src="https://raw.githubusercontent.com/armelsoubeiga/neweb/main/images/reporthub.jpg" style="height:150px; width:150px;" />
 </div><br />
 
 AfricAnalytics ReportHub is a project for automated collection of balance sheet reports from different companies by domain. With the objective of building specialized corpora for textual analysis. 
