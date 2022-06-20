@@ -11,12 +11,6 @@ image:
 AfricAnalytics ReportHub. We collect thousands of annual reports from different companies around the world.
 
 <div align="center">
-  
-![](/images/reporthub.jpg)
-  
-</div>
-
-<div align="center">
 <img src="/images/reporthub.jpg" style="height:150px; width:150px;" />
 </div><br />
 
