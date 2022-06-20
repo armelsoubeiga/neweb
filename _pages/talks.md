@@ -47,7 +47,7 @@ I've collected convenience functions that I've written to address issues I frequ
 - Correcting for overlapping polygons when aggregating raster data to polygons
 - My custom minimal ggplot2 theme
 
-![](/images/software/spatial_weighting.png)
+![](/images/spatial_weighting.png)
 
 To install the latest release on CRAN:
 
