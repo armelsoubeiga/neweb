@@ -46,6 +46,13 @@
   a + a {
     opacity: 0.5;
   }
+   
+ img {
+      height: auto; 
+      width: auto; 
+      max-width: 300px; 
+      max-height: 300px;
+   }
 }
 
 /* remove border*/
