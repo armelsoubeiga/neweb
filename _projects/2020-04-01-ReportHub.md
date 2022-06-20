@@ -16,7 +16,7 @@ AfricAnalytics ReportHub. We collect thousands of annual reports from different 
   
 </div>
   
-I am a developer of the [afnews](https://github.com/armelsoubeiga/afnews) R package. The package contains functions Africa news data collection. A package to scraping all news of all countries of Africa. The news is by country and by date range. The data returned are: title, contents, comments, journal name and category. 
+AfricAnalytics ReportHub is a project for automated collection of balance sheet reports from different companies by domain. With the objective of building specialized corpora for textual analysis. 
 
 [Website](https://analyzer.shinyapps.io/ReportHub) \  [ReportHub Dashboard](https://analyzer.shinyapps.io/ReportHub/)
 
