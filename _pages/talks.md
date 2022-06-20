@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Tech Transfert"
 permalink: /talks/
 author_profile: true
