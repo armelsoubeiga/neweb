@@ -15,7 +15,11 @@ AfricAnalytics ReportHub. We collect thousands of annual reports from different 
 ![](/images/reporthub.jpg)
   
 </div>
-  
+
+<div align="center">
+<img src="/images/reporthub.jpg" style="height:150px; width:150px;" />
+</div><br />
+
 AfricAnalytics ReportHub is a project for automated collection of balance sheet reports from different companies by domain. With the objective of building specialized corpora for textual analysis. 
 
 [Website](https://analyzer.shinyapps.io/ReportHub) \  [ReportHub Dashboard](https://analyzer.shinyapps.io/ReportHub/)
