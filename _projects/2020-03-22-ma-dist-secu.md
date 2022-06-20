@@ -8,16 +8,31 @@ image:
   teaser: https://raw.githubusercontent.com/armelsoubeiga/afnews/master/logo.png
 ---
 
-![dist-secu](/images/dist-secu.png)
+# afnews
 
-[**Ma distance de sécurité**](https://www.youtube.com/watch?v=uSn7Oznno-E) is a web and mobile applications that help users to manage the social distancing during the pandemic COVID-19.
+<!-- badges: start -->
+[![R build status](https://github.com/armelsoubeiga/afnews/workflows/R-CMD-check/badge.svg)](https://github.com/armelsoubeiga/afnews/actions)
+[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![version](https://img.shields.io/github/tag/armelsoubeiga/afnews.svg)](https://github.com/armelsoubeiga/afnews/releases)
+[![code-size](https://img.shields.io/github/languages/code-size/armelsoubeiga/afnews.svg)](https://github.com/armelsoubeiga/afnews)
+<!-- badges: end -->
 
-During the lockdown in March 2020 in France I developed these applications as a side project. I had the idea from the [haversine](https://en.wikipedia.org/wiki/Haversine_formula) distance that computes the distance between two geographical points (latitude and longitude). I then use the Google Maps API to track users positions and their distances.
+<div align="center">
 
-The user interface of the applications contain two fields **Ville** and **Distance** in which the user respectively set the city and the minimum distance the later want to keep from the other users. Once the user clicks the button start his distance is tracked he stops the tracking.
+<img src="https://raw.githubusercontent.com/armelsoubeiga/afnews/master/logo.png" height="180px" />
 
-I learned a lot from this project. It was my first time developing an Android application and deploying a website on Google Cloud.
+I am a developer of the [afnews]((https://github.com/armelsoubeiga/afnews) R package. The package contains functions Africa news data collection. A package to scraping all news of all countries of Africa. The news is by country and by date range. The data returned are: title, contents, comments, journal name and category. 
 
-I used the following technologies for the development: Python (Flask), JavaScript, HTML, CSS, Bootstrap, MySQL, Android, Google Cloud.
+[Website](https://armelsoubeiga.github.io/afnews) | [Get Started](https://armelsoubeiga.github.io/afnews/get-started.html)
 
-Code source available [here](https://github.com/abdjiber/prototype-distance-securitaire).
+</div>
+
+
+## Installation
+
+You can install the released version of afnews from [GITHUB](https://github.com/armelsoubeiga/afnews/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("armelsoubeiga/afnews")
+```
