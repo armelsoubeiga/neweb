@@ -127,6 +127,13 @@
   .archive__item-excerpt {
     display: none;
   }
+   
+   .archive__item-image {
+      height: auto; 
+      width: auto; 
+      max-width: 300px; 
+      max-height: 300px;
+   }
 
   @include breakpoint($small) {
     @include gallery(4 of 10);
