@@ -17,7 +17,8 @@ After more than three years in clinical research as a data scientist, and more t
 * Unsupervised classification for longitudinal data and trajectories analysis
 * AI and DevOps application in Health 
 * Machine Learning and Natural Language Processing for software engineering
-* Dataviz for software engineering
+* Interactive data visualisation for software engineering
+* Statistical computing and Exploratory data analysis
 
 **Here, take a look at my stuff**  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
