@@ -12,7 +12,9 @@ image:
 <img src="https://raw.githubusercontent.com/armelsoubeiga/neweb/main/images/traductor.jpg" style="height:200px; width:350px;" />
 </div><br />
 
-Traductor Lab / BF est un effort de recherche pour la PNL et la traduction automatique pour les langues Burkinabés. Nous sommes une communauté de développeurs, des data scientist, des ingénieurs et des talents de tous corps de métiers qui s'organisent ensemble pour fournir des données consolidées (corpus), des algorithmes, modéles pré-entrainés et proposer des Apps d'intelligences artificiels. [Vous pouvez également contribuer au projet](https://traductorlab-bf.github.io/)
-
 [Website](https://traductorlab-bf.github.io/) \ [Github](https://github.com/traductorlab-bf)
 
+------
+
+
+Traductor Lab / BF est un effort de recherche pour la PNL et la traduction automatique pour les langues Burkinabés. Nous sommes une communauté de développeurs, des data scientist, des ingénieurs et des talents de tous corps de métiers qui s'organisent ensemble pour fournir des données consolidées (corpus), des algorithmes, modéles pré-entrainés et proposer des Apps d'intelligences artificiels. [Vous pouvez également contribuer au projet](https://traductorlab-bf.github.io/)
