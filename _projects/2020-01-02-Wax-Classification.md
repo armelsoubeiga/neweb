@@ -17,6 +17,7 @@ image:
 
 [Website]() \ [Get Started](https://github.com/armelsoubeiga/WaxClassification) \ [Docs]()
 
+------
 
 # WaxClassification
 Classification des images de tissus africain en fonction de la marque, du type, de l'impression, du prix et de la qualité des pagnes africains
