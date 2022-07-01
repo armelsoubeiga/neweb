@@ -5,7 +5,7 @@ permalink: /projects/2019-03-02-Movies-Space
 excerpt: "Système de recommandation de films à travers cosinus similarity"
 data: 2019-03-02
 image:
-  teaser: /projets/appSR.PNG
+  teaser: /projets/appSR.png
 ---
 
 # Movies Space
