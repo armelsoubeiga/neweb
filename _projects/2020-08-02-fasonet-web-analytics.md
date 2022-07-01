@@ -21,5 +21,5 @@ Le FASO.NET WEB SONDAGE est une application web qui offret des services de sonda
 Nous pouvons extraire l'opinion, le sentiment et la pensé d'un lecteurs ou l'ensembles des lecteurs sur les sujets publiers sur le site web, la page facebook et le compte twitter de faso net.
 
 
-[Website](https://armelsoubeiga.github.io/webanalyticsbf/) \ [Get Started](https://github.com/armelsoubeiga/webanalyticsbf) \ [Docs](https://github.com/armelsoubeiga/neweb/blob/main/files/CahierDesCharge_V0.1.pdf)
+[Website](https://armelsoubeiga.github.io/webanalyticsbf/) \ [Get Started](https://github.com/armelsoubeiga/webanalyticsbf) \ [Docs]()
 
