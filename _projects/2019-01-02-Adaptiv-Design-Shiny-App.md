@@ -5,7 +5,7 @@ permalink: /projects/2019-01-02-Adaptiv-Design-Shiny-App
 excerpt: "The application is used to determine the required sample size of a clinical study."
 data: 2019-01-02
 image:
-  teaser: /images/projets/ar.jpg
+  teaser: /projets/ar.jpg
 ---
 
 # Adaptiv Design Shiny App
