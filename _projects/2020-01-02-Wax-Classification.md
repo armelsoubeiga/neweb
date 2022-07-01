@@ -5,7 +5,7 @@ permalink: /projects/2020-01-02-Wax-Classification
 excerpt: "WaxClassification : africa wax classification app with Tensorflow Image Classifiaction + Anrdoid"
 data: 2020-01-02
 image:
-  teaser: /images/projets/waxclassification.png
+  teaser: /projets/waxclassification.png
 ---
 
 # Wax Classification
