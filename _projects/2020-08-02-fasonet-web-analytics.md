@@ -5,7 +5,7 @@ permalink: /projects/2020-08-02-fasonet-web-analytics
 excerpt: "Le faso.net web sondage est une application web qui offret des services de sondage d'opinion à travers le NLP"
 data: 2020-08-02
 image:
-  teaser: /images/projets/fasonet.jpg
+  teaser: /projets/fasonet.jpg
 ---
 
 # FASO.NET WEB ANALYTICS
