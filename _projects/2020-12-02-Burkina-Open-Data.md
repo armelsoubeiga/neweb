@@ -5,7 +5,7 @@ permalink: /projects/2020-12-02-Burkina-Open-Data
 excerpt: "Burkina Open-Data for Statistique & Machine Learning and Data Scientist"
 data: 2020-12-02
 image:
-  teaser: /images/projets/burkinaopendata.jpg
+  teaser: /projets/burkinaopendata.jpg
 ---
 
 # Burkina Open-Data for Statistique & Machine Learning and Data Scientist
