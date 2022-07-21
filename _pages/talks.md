@@ -6,9 +6,26 @@ author_profile: true
 
 {% include base_path %}
 
-As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
+## web scraping with R
 
-# BayesPostEst
+I wrote a book on web scraping with R. It's a pretty practical book with hands-on projects. It covers:
+
+- Scrapers for web 1.0 & web 2.0
+- 8 practical scraping projects with or without APIs
+- Scraper automation on local and cloud
+- Web mining & crawling
+- Implementation of crawler & scraper robots
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/armelsoubeiga/neweb/main/images/techtransfert/ebook.jpg" height="180px" />
+<br/><br/>
+
+[Amazon-ebook](https://www.amazon.com/dp/B0B6YD45B1) | [Amazon - paperback](https://www.amazon.com/dp/B0B6YWXVZ7)
+
+</div>
+
+## BayesPostEst
 
 [![R build status](https://github.com/ShanaScogin/BayesPostEst/workflows/R-CMD-check/badge.svg)](https://github.com/ShanaScogin/BayesPostEst/actions)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BayesPostEst)](https://CRAN.R-project.org/package=BayesPostEst)
