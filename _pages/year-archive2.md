@@ -3,8 +3,6 @@ layout: archive
 permalink: /year-archive2/
 title: "Blog posts"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 You will find an archive of my old blog posts related to artificial intelligence on the link :
