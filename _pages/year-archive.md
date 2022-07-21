@@ -16,6 +16,10 @@ You will find an archive of my old blog posts related to artificial intelligence
 | You will find an archive of my old blog posts related to artificial intelligence on the link :[http://armelsoubeiga.pythonanywhere.com/](http://armelsoubeiga.pythonanywhere.com/) |
 
 
+
+> :boom: **Blog posts**: You will find an archive of my old blog posts related to artificial intelligence on the link :[http://armelsoubeiga.pythonanywhere.com/](http://armelsoubeiga.pythonanywhere.com/)!
+
+
 --------------------------
 
 {% include base_path %}
