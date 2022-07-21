@@ -10,9 +10,7 @@ redirect_from:
 
 About
 ------
-After more than three years in clinical research as a data scientist, and more than one year as a data consultant at the World Bank. I am currently a PhD student in Machine Learning at the University of Clermont Auvergne, with [LIMOS](https://limos.fr/) and [SFU](https://www.sfu.ca/).
-
-He is fortunate to be supervised by [Jonas KOKO](https://perso.isima.fr/~jokoko/), [ Violaine ANTOINE](https://perso.isima.fr/~viantoin/) and [Sylvain MORENO](https://www.digitalhealthcircle.ca/)
+After more than three years in clinical research as a data scientist, and more than one year as a data consultant at the World Bank. I am currently a PhD student in Machine Learning at the University of Clermont Auvergne, with [LIMOS](https://limos.fr/) and [SFU](https://www.sfu.ca/). He is fortunate to be supervised by [Jonas KOKO](https://perso.isima.fr/~jokoko/), [ Violaine ANTOINE](https://perso.isima.fr/~viantoin/) and [Sylvain MORENO](https://www.digitalhealthcircle.ca/)
 
 **Research interests:**
 
