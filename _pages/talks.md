@@ -18,15 +18,11 @@ I wrote a book on web scraping with R. It's a pretty practical book with hands-o
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/armelsoubeiga/neweb/main/images/techtransfert/ebook.jpg"  style="height:150px; width:150px;" />
-    
-<br/><br/>
-</div>
+<img src="https://raw.githubusercontent.com/armelsoubeiga/neweb/main/images/techtransfert/ebook.jpg"  style="height:300px; width:300px;" />
+</div><br/>
 
-[Amazon-ebook](https://www.amazon.com/dp/B0B6YD45B1) | [Amazon-paperback](https://www.amazon.com/dp/B0B6YWXVZ7)
+[Amazon-ebook](https://www.amazon.com/dp/B0B6YD45B1) \ [Amazon-paperback](https://www.amazon.com/dp/B0B6YWXVZ7)
 
-
-------------
 
 ## afnews
 
@@ -51,8 +47,6 @@ You can install the released version of afnews from [GITHUB](https://github.com/
 # install.packages("devtools")
 devtools::install_github("armelsoubeiga/afnews")
 ```
-
-------------
 
 
 ## Traductor Lab / BF
