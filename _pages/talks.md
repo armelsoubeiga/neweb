@@ -30,13 +30,10 @@ I wrote a book on web scraping with R. It's a pretty practical book with hands-o
 
 ## afnews
 
-<!-- badges: start -->
 [![R build status](https://github.com/armelsoubeiga/afnews/workflows/R-CMD-check/badge.svg)](https://github.com/armelsoubeiga/afnews/actions)
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![version](https://img.shields.io/github/tag/armelsoubeiga/afnews.svg)](https://github.com/armelsoubeiga/afnews/releases)
 [![code-size](https://img.shields.io/github/languages/code-size/armelsoubeiga/afnews.svg)](https://github.com/armelsoubeiga/afnews)
-<!-- badges: end -->
-
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/armelsoubeiga/afnews/master/logo.png" style="height:200px; width:200px;" />
@@ -45,8 +42,6 @@ I wrote a book on web scraping with R. It's a pretty practical book with hands-o
 I am a developer of the [afnews](https://github.com/armelsoubeiga/afnews) R package. The package contains functions Africa news data collection. A package to scraping all news of all countries of Africa. The news is by country and by date range. The data returned are: title, contents, comments, journal name and category. 
 
 [Website](https://armelsoubeiga.github.io/afnews) \ [Get Started](https://armelsoubeiga.github.io/afnews/get-started.html)
-
-------
 
 ### Installation
 
@@ -71,19 +66,3 @@ devtools::install_github("armelsoubeiga/afnews")
 
 Traductor Lab / BF est un effort de recherche pour la PNL et la traduction automatique pour les langues Burkinabés. Nous sommes une communauté de développeurs, des data scientist, des ingénieurs et des talents de tous corps de métiers qui s'organisent ensemble pour fournir des données consolidées (corpus), des algorithmes, modéles pré-entrainés et proposer des Apps d'intelligences artificiels. [Vous pouvez également contribuer au projet](https://traductorlab-bf.github.io/)
 
-
-# Other resources
-
-I also have a number of other software resources focused on making computation and academic life easier:
-
-- [The template](https://github.com/jayrobwilliams/JobMarket) I use for my academic job market materials
-    - Fill in school/position information in one file and it populates to all statements
-    - Generate summary statistics from teaching evaluations and integrate into statements
-    - Combine multiple teaching evaluations into a single portfolio document
-    - Do all of this programmatically with GNU Make!
-- [The template](https://github.com/jayrobwilliams/UNC-Dissertation-Template) I used for my dissertation
-    - This satisfied the formatting requirements at UNC in 2019
-    - Some tweaking likely required to use at another institution or in the future
-- [Scripts](https://github.com/jayrobwilliams/Teaching) that I use to save time on various teaching-related tasks like grading
-- [Functions](https://github.com/jayrobwilliams/ComputerVision) for extracting still frames from videos and information from images in Python using OpenCV
-- [Compiling OpenCV](/files/html/OpenCV_Install.html) from source for Anaconda virtual environments instead of Homebrew ones or system Python installations
