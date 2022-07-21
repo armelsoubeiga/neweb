@@ -11,7 +11,7 @@ author_profile: true
 I wrote a book on web scraping with R. It's a pretty practical book with hands-on projects. It covers:
 
 - Scrapers for web 1.0 & web 2.0
-- 8 practical scraping projects with or without APIs
+- Practical scraping projects with or without APIs
 - Scraper automation on local and cloud
 - Web mining & crawling
 - Implementation of crawler & scraper robots
