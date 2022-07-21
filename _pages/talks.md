@@ -18,7 +18,7 @@ I wrote a book on web scraping with R. It's a pretty practical book with hands-o
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/armelsoubeiga/neweb/main/images/techtransfert/ebook.jpg"  height="300px"/>
+<img src="https://raw.githubusercontent.com/armelsoubeiga/neweb/main/images/techtransfert/ebook.jpg"  height="350px"/>
 <br/><br/>
 
 [Amazon-ebook](https://www.amazon.com/dp/B0B6YD45B1) | [Amazon-paperback](https://www.amazon.com/dp/B0B6YWXVZ7)
