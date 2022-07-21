@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<!--
+
 [Education](#education)<br/>
 [Online training](#training)<br/>
 [Work experience](#experience)<br/>
@@ -20,7 +20,7 @@ redirect_from:
 [Soft Skills](#soft-skills)<br/>
 [Personal interests](#interests)<br/>
 [Teaching](#teaching)
--->
+
 
 The downloadable format of my CV is available [here](/files/cv-djiberou.pdf).
 
