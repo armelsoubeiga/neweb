@@ -16,4 +16,4 @@ The downloadable format of my CV is available [here](/files/cv-armelsoubeiga.pdf
 
 ------------
 
-<iframe src="/files/cv-armelsoubeiga.pdf" width="80%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/cv-armelsoubeiga.pdf" width="50%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
