@@ -12,6 +12,7 @@ redirect_from:
 
 The downloadable format of my CV is available [here](/files/cv-armelsoubeiga.pdf).
 
+<br/><br/>
 
 ------------
 
