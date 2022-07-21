@@ -37,5 +37,5 @@ After more than three years in clinical research as a data scientist, and more t
 
 
 {% include base_path %}
-[![](images/porfolio/mygal.png)]({{ base_path }}{{ pages.url }}/portfolio)
+[![](images/porfolio/mygal.PNG)]({{ base_path }}{{ pages.url }}/portfolio)
                                
