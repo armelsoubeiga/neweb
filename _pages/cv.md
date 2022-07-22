@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 The downloadable format of my CV is available [here](files/cv-armelsoubeiga.pdf).
 
 <br/><br/>
